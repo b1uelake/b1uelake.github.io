@@ -23,13 +23,13 @@ repository               : "b1uelake/b1uelake.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "b1uelake"
+  name             : "bluelake"
   pronouns         : # example: "she/her"  
-  bio              : "开发者 / 技术爱好者"  # 👈 改成你的自我介绍
-  location         : "Earth"  # 👈 改成你的城市
+  bio              : "愿风吹散我一身风尘"  # 👈 改成你的自我介绍
+  location         : "China"  # 👈 改成你的城市
   employer         : # 👈 改成你的公司/学校
   uri              : # URL
-  email            : # 👈 改成你的邮箱
+  email            : "18850489925@163.com"# 👈 改成你的邮箱
 
   # Academic websites
   academia         : # URL
