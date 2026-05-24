@@ -1,5 +1,5 @@
 ---
-title: 'Excalidraw Data'
+title: 'GPT课程-总复习笔记'
 published: 2026-05-23
 description: 'Karpathy GPT 课程总笔记，从零复现 GPT-2'
 tags: ['AI', '机器学习']
