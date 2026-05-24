@@ -46,7 +46,7 @@ export const navBarConfig: NavBarConfig = {
 };
 
 export const profileConfig: ProfileConfig = {
-	avatar: "assets/images/avatar.jpg",
+	avatar: "assets/images/avatar.png",
 	name: "b1uelake",
 	bio: "愿风吹散我一身风尘",
 	links: [
