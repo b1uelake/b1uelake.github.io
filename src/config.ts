@@ -16,8 +16,8 @@ export const siteConfig: SiteConfig = {
 		fixed: false,
 	},
 	banner: {
-		enable: false, // 暂时关闭，后续可以添加 banner 图
-		src: "assets/images/demo-banner.png",
+		enable: true,
+		src: "assets/images/banner.png",
 		position: "center",
 		credit: {
 			enable: false,
@@ -46,7 +46,7 @@ export const navBarConfig: NavBarConfig = {
 };
 
 export const profileConfig: ProfileConfig = {
-	avatar: "assets/images/demo-avatar.png",
+	avatar: "assets/images/avatar.jpg",
 	name: "b1uelake",
 	bio: "愿风吹散我一身风尘",
 	links: [
